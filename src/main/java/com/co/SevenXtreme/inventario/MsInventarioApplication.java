@@ -1,13 +1,13 @@
-package com.co.SevenXtreme.sxadminmsinventario;
+package com.co.SevenXtreme.inventario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SxAdminMsInventarioApplication {
+public class MsInventarioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SxAdminMsInventarioApplication.class, args);
+		SpringApplication.run(MsInventarioApplication.class, args);
 	}
 
 }
